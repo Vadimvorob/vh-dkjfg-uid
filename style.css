@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(18, 189, 189);
+
+}
+.link-header{
+font-size: 30px;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+nav{
+display: flex;
+justify-content:space-between;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
